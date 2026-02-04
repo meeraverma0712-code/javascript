@@ -1,18 +1,10 @@
-#heading{
-    background-color: aquamarine;
-}
-body{
-    background-color: rgb(187, 119, 119);
-}
-.heading{
-    background-color: blanchedalmond;
+.content{
+    color: brown;
+    font-size: medium;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
 }
 
-.box{
-    margin: 10px;
-    height: 100px;
-    width: 100px;
-background-color: azure;
-text-align: center;
-border: 2px solid black;
+.newclass{
+    background-color: bisque;
+    
 }
